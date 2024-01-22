@@ -1,0 +1,58 @@
+
+h1 {
+font-style: italic;
+  display: flex;
+  flex-direction: row;
+  background-color: #F4871E;
+   color: #FFFFFF;
+  padding: 20px 10px 20px 10px;
+ border: solid 5px #002D62;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  color: #F4871E;
+}
+div{
+  font-size: 44px;
+  border:  solid #002D62;
+  display: flex;
+  background-image: clear;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+body{
+ background-image: url('https://imgs.search.brave.com/3UEvfVlfn6DNUVI-XdC8pNzCQcK3BNmRYnOm_osd814/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTM2/MDkyOTc3L3Bob3Rv/L2hvdXN0b24tc3Vu/c2V0LXNreWxpbmUt/ZnJvbS10ZXhhcy11/cy5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9X3ZrUHpEU0w0/ZkstSks2U1Q3b0xl/Zm45TTJBS21QUmdW/Z3dfYmRXLThBTT0')
+
+ }
+.container{
+border: #002D62;
+display: flex;
+flex-direction: row-reverse;
+font-family: Times new roman;
+justify-content: space-around;
+background-color: clear;
+}
+p {
+ color: #F4871E;
+ font-style: italic;
+ text-align: center;
+ padding: 10px 0 20px 20px;
+}
+img{ 
+width: 60%;
+}
+a {
+ font-size: 20px;
+ display: flex;
+ flex-direction: row;
+ border: solid #002D62;
+ padding: 10px 10px 10px 10px;
+ color: #EB6E1F;
+}
+button{
+  color: #002D62;
+}
