@@ -27,9 +27,6 @@ div{
 body{
  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiw18uwmGdJ0h0SPuX7YueUHMHfm4gNwgGNQ&s');
    background-repeat: repeat;
-  background-size: cover;
-  background-position: center center;
-
  }
 .container{
 border: #002D62;
