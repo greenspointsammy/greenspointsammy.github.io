@@ -25,7 +25,7 @@ div{
   padding: 0;
 }
 body{
- background-image: url('https://imgs.search.brave.com/tFb86bTretq9udLqkKmPXpDVv-U4veJQ8Bfyz7E5wXo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2EyL2Zi/L2VmL2EyZmJlZjA5/NGU5YTdlY2ZhYjRh/YzM3NTlmNzAzODIy/LmpwZw')  background-repeat: repeat;
+ background-image: url("https://resize.avn.com/eyJidWNrZXQiOiJhdm4taW1hZ2VzIiwia2V5IjoiMjAyMVwvMDRcLzE1XC9PN1h4MFB0UmV5WEpsT0VxTk9WTHJ1M0pDcWpOdVZoUmxmOU5Pb3d3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0Ijo5NjAsImZpdCI6Imluc2lkZSIsInBvc2l0aW9uIjoidG9wIn19fQ==")  background-repeat: repeat;
  }
 .container{
 border: #002D62;
